@@ -1,3 +1,4 @@
+<img src="https://github.com/dsc-umit/dsc-umit/blob/main/dsc.jfif" alt="dsc-banner">
 ### Welcome to Developer Student Club - UMIT 🚀
 <hr>
 - 👯 We are open for collaborations!<br>
