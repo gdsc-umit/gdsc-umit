@@ -1,4 +1,4 @@
-<img src="https://github.com/dsc-umit/dsc-umit/blob/main/GDSC%20Logos%20left-align%20basic.png" alt="dsc-banner"><br>
+<img src="https://github.com/dsc-umit/dsc-umit/blob/main/banner-gdsc.png" alt="dsc-banner"><br>
 ## Welcome to Developer Student Club - UMIT 🚀
 <hr>
 - 👯 We are open for collaborations!<br>
