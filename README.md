@@ -1,6 +1,9 @@
 <img src="https://github.com/dsc-umit/dsc-umit/blob/main/banner-gdsc.png" alt="dsc-banner"><br>
 ## Welcome to Developer Student Club - UMIT 🚀
 <hr>
+
+<p align="center"><img src="https://visitor-badge.laobi.icu/badge?page_id=gdsc-umit.gdsc-umit"> <img src="https://img.shields.io/github/followers/gdsc-umit?label=Follow&style=social)](https://github.com/gdsc-umit"></p> 
+
 - 👯 We are open for collaborations!<br>
 - 💬 Ask us about anything Technical💻 <br>
 <br>
